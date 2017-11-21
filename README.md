@@ -8,4 +8,9 @@ Mutation method:
     Loop over new population
     if at any point during loop, Math.Random <= Mutation Rate
       mutate that individual at index location i.
+      
+      
+      
+GA file:
+  My implementation of the Genetic Algorithm. 
     
